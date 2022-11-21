@@ -1,5 +1,3 @@
-![Uploading laptop wave.png…]()
-
 <h1 align="center">Hi 👋, I'm Curtis Muasya</h1>
 <h3 align="center">“Computers are good at following instructions but not at reading your mind.”</h3>
 
