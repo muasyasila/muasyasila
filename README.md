@@ -1,3 +1,4 @@
+<img src="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3" alt="Gif">
 <h1 align="center">Hi 👋, I'm Curtis Muasya</h1>
 <h3 align="center">“Computers are good at following instructions but not at reading your mind.”</h3>
 
