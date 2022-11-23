@@ -1,13 +1,16 @@
-![giphy (20)](https://user-images.githubusercontent.com/111142846/203123822-66d7f5dc-4862-4f76-86de-7c15eaf33e8f.gif)
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif?cid=790b761188175bd04c35a1eaf2cbdc47e965c746b3829394&rid=giphy.gif&ct=g" alt="Gif" width="400" height="auto">
+</div>
 
 <h1 align="center">Hi 👋, I'm Curtis Muasya</h1>
 <h3 align="center">“Computers are good at following instructions but not at reading your mind.”</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muasyasila&label=Profile%20views&color=0e75b6&style=flat" alt="muasyasila" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=muasyasila&label=Profile%20views&color=0e75b6&style=flat" alt="muasyasila" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muasyasila" alt="muasyasila" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muasyasila" alt="muasyasila" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on **Learning how GTP3 works.**
 
