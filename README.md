@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **Developing a Ai for long form blog writers and articles.**
 
-- 💬 Ask me about **Html, Css, Java**
+- 💬 Ask me about **Html, Css, PHP, Python**
 
 - 📫 How to reach me **curtissila4@gmail.com**
 
