@@ -12,13 +12,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on **ALX Software Dev.**
+- 🔭 I’m currently working on **Grand Ma Betty Fast Food Restaurant , Check repo**
 
-- 🌱 I’m currently learning **Ux design.**
+- 🌱 I’m currently learning **Alx Software Dev**
 
-- 👯 I’m looking to collaborate on **Ai and robotics**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Developing a Ai for long form blog writers and articles.**
+- 🤝 I’m looking for help with **Developing a Ai for long form blog writers and articles (Long time Goal)**
 
 - 💬 Ask me about **Html, Css, PHP, Python**
 
