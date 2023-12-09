@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on **Grand Ma Betty Fast Food Restaurant , Check repo**
+<!--- 🔭 I’m currently working on **Grand Ma Betty Fast Food Restaurant , Check repo**
 
 - 🌱 I’m currently learning **Alx Software Dev**
 
@@ -20,11 +20,11 @@
 
 - 🤝 I’m looking for help with **Developing a Ai for long form blog writers and articles (Long time Goal)**
 
-- 💬 Ask me about **Html, Css, PHP, Python**
+- 💬 Ask me about **Html, Css, PHP, Python**-->
 
 - 📫 How to reach me **curtissila4@gmail.com**
 
-- ⚡ Fun fact **Something I’d love to get rich by doing full-time is ...... Youtube. Its been a long time dream to be Youtube famous.**
+- ⚡ Fun fact **Code Code Code to start Understanding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
