@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Curtis Muasya</h1>
-<h3 align="center">“Computers are good at following instructions but not at reading your mind.”</h3>
+<h3 align="center">“Lets Build”</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=muasyasila&label=Profile%20views&color=0e75b6&style=flat" alt="muasyasila" /> </p>-->
 
